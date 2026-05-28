@@ -72,7 +72,7 @@ Functions created to manipulate and manage singly linked list data structures:
 To compile the library, clone this repository and run `make` at the root directory:
 
 ```bash
-git clone [git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-9bcf1cec-7a6e-42c8-b482-d87edc3d22a1-7439599-fbachman] [repo-name]
+git clone [git@github.com:febachman/Libft.git] [repo-name]
 cd [repo-name]
 make
 
